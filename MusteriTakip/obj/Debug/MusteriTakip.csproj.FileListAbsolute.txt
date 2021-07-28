@@ -1,0 +1,41 @@
+C:\Users\Taha\Desktop\PROJE\MusteriTakip\MusteriTakip\bin\Debug\MusteriTakip.exe.config
+C:\Users\Taha\Desktop\PROJE\MusteriTakip\MusteriTakip\bin\Debug\MusteriTakip.exe
+C:\Users\Taha\Desktop\PROJE\MusteriTakip\MusteriTakip\bin\Debug\MusteriTakip.pdb
+C:\Users\Taha\Desktop\PROJE\MusteriTakip\MusteriTakip\obj\Debug\MusteriTakip.csprojResolveAssemblyReference.cache
+C:\Users\Taha\Desktop\PROJE\MusteriTakip\MusteriTakip\obj\Debug\MusteriTakip.AnaEkran.resources
+C:\Users\Taha\Desktop\PROJE\MusteriTakip\MusteriTakip\obj\Debug\MusteriTakip.MusteriEkle.resources
+C:\Users\Taha\Desktop\PROJE\MusteriTakip\MusteriTakip\obj\Debug\MusteriTakip.Properties.Resources.resources
+C:\Users\Taha\Desktop\PROJE\MusteriTakip\MusteriTakip\obj\Debug\MusteriTakip.csproj.GenerateResource.Cache
+C:\Users\Taha\Desktop\PROJE\MusteriTakip\MusteriTakip\obj\Debug\MusteriTakip.exe
+C:\Users\Taha\Desktop\PROJE\MusteriTakip\MusteriTakip\obj\Debug\MusteriTakip.pdb
+C:\Users\Taha\Desktop\PROJE - Kopya\MusteriTakip\MusteriTakip\bin\Debug\MusteriTakip.exe.config
+C:\Users\Taha\Desktop\PROJE - Kopya\MusteriTakip\MusteriTakip\obj\Debug\MusteriTakip.exe
+C:\Users\Taha\Desktop\PROJE - Kopya\MusteriTakip\MusteriTakip\obj\Debug\MusteriTakip.pdb
+C:\Users\Taha\Desktop\PROJE - Kopya\MusteriTakip\MusteriTakip\bin\Debug\MusteriTakip.exe
+C:\Users\Taha\Desktop\PROJE - Kopya\MusteriTakip\MusteriTakip\bin\Debug\MusteriTakip.pdb
+C:\Users\Taha\Desktop\PROJE - Kopya\MusteriTakip\MusteriTakip\obj\Debug\MusteriTakip.csprojResolveAssemblyReference.cache
+C:\Users\Taha\Desktop\PROJE - Kopya\MusteriTakip\MusteriTakip\obj\Debug\MusteriTakip.AnaEkran.resources
+C:\Users\Taha\Desktop\PROJE - Kopya\MusteriTakip\MusteriTakip\obj\Debug\MusteriTakip.MusteriEkle.resources
+C:\Users\Taha\Desktop\PROJE - Kopya\MusteriTakip\MusteriTakip\obj\Debug\MusteriTakip.Properties.Resources.resources
+C:\Users\Taha\Desktop\PROJE - Kopya\MusteriTakip\MusteriTakip\obj\Debug\MusteriTakip.csproj.GenerateResource.Cache
+C:\Users\Taha\Desktop\PROJE - Kopya\MusteriTakip\MusteriTakip\obj\Debug\MusteriTakip.MusteriGuncelle.resources
+C:\Users\Taha\Desktop\PROJE\MusteriTakip\MusteriTakip\obj\Debug\MusteriTakip.MusteriGuncelle.resources
+C:\Users\Taha\Desktop\PROJE\MusteriTakip\MusteriTakip\obj\Debug\MusteriTakip.KisiRapor.resources
+C:\Users\Taha\Desktop\PROJE\MusteriTakip\MusteriTakip\obj\Debug\RdlCompile.cache
+C:\Users\Taha\Desktop\PROJE\MusteriTakip\MusteriTakip\obj\Debug\RdlCompile.compiled
+C:\Users\Taha\Desktop\PROJE\MusteriTakip\MusteriTakip\obj\Debug\MusteriTakip.GecmisRapor.resources
+C:\Users\Taha\Desktop\131830068 Taha KILIÇ\MusteriTakip\MusteriTakip\bin\Debug\MusteriTakip.exe.config
+C:\Users\Taha\Desktop\131830068 Taha KILIÇ\MusteriTakip\MusteriTakip\obj\Debug\MusteriTakip.exe
+C:\Users\Taha\Desktop\131830068 Taha KILIÇ\MusteriTakip\MusteriTakip\obj\Debug\MusteriTakip.pdb
+C:\Users\Taha\Desktop\131830068 Taha KILIÇ\MusteriTakip\MusteriTakip\bin\Debug\MusteriTakip.exe
+C:\Users\Taha\Desktop\131830068 Taha KILIÇ\MusteriTakip\MusteriTakip\bin\Debug\MusteriTakip.pdb
+C:\Users\Taha\Desktop\131830068 Taha KILIÇ\MusteriTakip\MusteriTakip\obj\Debug\MusteriTakip.csprojResolveAssemblyReference.cache
+C:\Users\Taha\Desktop\131830068 Taha KILIÇ\MusteriTakip\MusteriTakip\obj\Debug\MusteriTakip.AnaEkran.resources
+C:\Users\Taha\Desktop\131830068 Taha KILIÇ\MusteriTakip\MusteriTakip\obj\Debug\MusteriTakip.GecmisRapor.resources
+C:\Users\Taha\Desktop\131830068 Taha KILIÇ\MusteriTakip\MusteriTakip\obj\Debug\MusteriTakip.KisiRapor.resources
+C:\Users\Taha\Desktop\131830068 Taha KILIÇ\MusteriTakip\MusteriTakip\obj\Debug\MusteriTakip.MusteriEkle.resources
+C:\Users\Taha\Desktop\131830068 Taha KILIÇ\MusteriTakip\MusteriTakip\obj\Debug\MusteriTakip.MusteriGuncelle.resources
+C:\Users\Taha\Desktop\131830068 Taha KILIÇ\MusteriTakip\MusteriTakip\obj\Debug\MusteriTakip.Properties.Resources.resources
+C:\Users\Taha\Desktop\131830068 Taha KILIÇ\MusteriTakip\MusteriTakip\obj\Debug\MusteriTakip.csproj.GenerateResource.Cache
+C:\Users\Taha\Desktop\131830068 Taha KILIÇ\MusteriTakip\MusteriTakip\obj\Debug\RdlCompile.cache
+C:\Users\Taha\Desktop\131830068 Taha KILIÇ\MusteriTakip\MusteriTakip\obj\Debug\RdlCompile.compiled
